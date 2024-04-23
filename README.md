@@ -23,8 +23,8 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 ``
 /*
 Program to implement the K Means Clustering for Customer Segmentation.
-Developed by: M. R. ANUMITHA
-RegisterNumber:  212223040018
+Developed by: DAISY R
+RegisterNumber:  212223220016
 */
 ```
 ```
